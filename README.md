@@ -20,6 +20,8 @@ cpan install LWP::UserAgent JSON
 cpan install LWP::Protocol::https
 ```
 
+note: kalau gak bisa install, gunakan akses root.
+
 ## jalankan
 
 ```bash
