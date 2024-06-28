@@ -1,3 +1,5 @@
+# bahasa old pertama gw pas awl-awal pentes
+# dah hampir punah sekarang
 #!/usr/bin/perl
 use strict;
 use warnings;
